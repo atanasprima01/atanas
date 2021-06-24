@@ -1,2 +1,4 @@
 -menambahkan sistem 
+  +membuat managemen peserta
+  +managemen keuangan
 -membuat web sao
