@@ -2,3 +2,4 @@
   +membuat managemen peserta
   +managemen keuangan
 -membuat web sao
+-menyambungkan dengan git hub
